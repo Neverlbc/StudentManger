@@ -1,0 +1,14 @@
+﻿  SudentSystem.cpp
+C:\Users\lbc\source\repos\SudentSystem\SudentSystem\sudentsystem.h(152,22): warning C4477: “fscanf_s”: 格式字符串“%s”需要类型“unsigned int”的参数，但可变参数 2 拥有了类型“char *”
+C:\Users\lbc\source\repos\SudentSystem\SudentSystem\sudentsystem.h(152,22): message : 此参数用作缓冲区大小
+C:\Users\lbc\source\repos\SudentSystem\SudentSystem\sudentsystem.h(152,22): warning C4477: “fscanf_s”: 格式字符串“%s”需要类型“unsigned int”的参数，但可变参数 4 拥有了类型“int *”
+C:\Users\lbc\source\repos\SudentSystem\SudentSystem\sudentsystem.h(152,22): message : 此参数用作缓冲区大小
+C:\Users\lbc\source\repos\SudentSystem\SudentSystem\sudentsystem.h(152,22): warning C4477: “fscanf_s”: 格式字符串“%s”需要类型“unsigned int”的参数，但可变参数 6 拥有了类型“char *”
+C:\Users\lbc\source\repos\SudentSystem\SudentSystem\sudentsystem.h(152,22): message : 此参数用作缓冲区大小
+C:\Users\lbc\source\repos\SudentSystem\SudentSystem\sudentsystem.h(152,22): warning C4477: “fscanf_s”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 7 拥有了类型“char *”
+C:\Users\lbc\source\repos\SudentSystem\SudentSystem\sudentsystem.h(152,22): message : 请考虑在格式字符串中使用“%hhd”
+C:\Users\lbc\source\repos\SudentSystem\SudentSystem\sudentsystem.h(152,22): warning C4473: “fscanf_s”: 没有为格式字符串传递足够的参数
+C:\Users\lbc\source\repos\SudentSystem\SudentSystem\sudentsystem.h(152,22): message : 占位符和其参数预计 15 可变参数，但提供的却是 8 参数
+C:\Users\lbc\source\repos\SudentSystem\SudentSystem\sudentsystem.h(152,22): message : 缺失的可变参数 9 为格式字符串“%s”所需
+C:\Users\lbc\source\repos\SudentSystem\SudentSystem\sudentsystem.h(152,22): message : 此参数用作缓冲区大小
+  SudentSystem.vcxproj -> C:\Users\lbc\source\repos\SudentSystem\x64\Debug\SudentSystem.exe
